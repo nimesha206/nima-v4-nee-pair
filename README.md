@@ -1,1 +1,2 @@
-# nima-v4-nee-pair
+Nima-V4Code
+Pair code generator for whatsapp bots
